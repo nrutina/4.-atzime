@@ -1,5 +1,5 @@
 import random 
-#atgriež nejauši izvēlētu elementu no norādītā saraksta
-saraksts = ["kaķis", "zaķis", "skapis"]
-
-print(random.choice(saraksts))
+#Atgriež nejauši izvēlētu elementu no norādītā saraksta
+def funkcija():
+    saraksts = ["muša", "nes", "ņaudošu", "odu"]
+    print(random.choice(saraksts))

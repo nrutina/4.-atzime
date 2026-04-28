@@ -1,5 +1,6 @@
 import random 
-#atgriež sarakstu ar nejauši izvēlētiem elementiem no norādītā saraksta
-sarakstiņš = ["kaķis", "zaķis", "skapis"]
+#Atgriež sarakstu ar nejauši izvēlētiem elementiem no norādītā saraksta
 
-print(random.choices(sarakstiņš, k = 10))
+def funkcija():
+    saraksts = ["helihopters", "izglābj", "īstu","jaguāru"]
+    print(random.choices(saraksts, k = 10))

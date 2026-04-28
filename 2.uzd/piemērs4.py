@@ -1,5 +1,6 @@
 import random 
-#atgriež objektu ar nejaušo skaitļu ģeneratora pašreizējo stāvokli.
-x = random.getstate()
-
-print(x)
+#Atgriež objektu ar nejaušo skaitļu ģeneratora pašreizējo stāvokli.
+def funkcija():
+    x = random.getstate()
+    print(x)
+#Šo es arī nesaprotu, bet tā noteikti ir funkcija

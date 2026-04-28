@@ -1,6 +1,6 @@
 import random 
-#ņem sarakstu, un pārkārto elementu secību.
-saraksts = ["kaķis", "zaķis", "skapis"]
-random.shuffle(saraksts)
-
-print(saraksts)
+#Ņem sarakstu, un pārkārto elementu secību.
+def funkcija():
+    saraksts = ["eglē", "ērglis", "filmē", "gliemežu", "ģimeni"]
+    random.shuffle(saraksts)
+    print(saraksts)

@@ -1,3 +1,4 @@
 import random 
-#atgriež veselu skaitli no norādītā diapazona.
-print(random.randint(1, 20))
+#Atgriež veselu skaitli no norādītā diapazona.
+def funkcija():
+ print(random.randint(1, 20))

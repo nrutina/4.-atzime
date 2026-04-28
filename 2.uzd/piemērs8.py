@@ -1,3 +1,4 @@
 import random 
-#atgriež nejaušu skaitli(ar decimāldaļām) starp diviem norādītajiem skaitļiem
-print(random.uniform(2, 222))
+#Atgriež nejaušu skaitli(ar decimāldaļām) starp diviem norādītajiem skaitļiem
+def funkcija(): 
+    print(random.uniform(2, 222))
