@@ -1,22 +1,24 @@
 **Bibleotēku izvēle:**<br>    
-
 Izvēlējos tieši "random" un "math" bibliotēkas, jo tās ir visbiežāk izmantotās Python iebūvētās bibliotēkas, kad vajag ātri veikt skaitliskus vai simulācijas tipa uzdevumus, un esmu pati tās izmantojusi.<br>  
 
 **Ieguvumi un ierobežojumi:**<br>    
 
-
 random bibliotēka:<br>
+
 Ieguvumi:<br>  
 1. Noderīgs rīks daudzās programmās: ļauj ģenerēt nejaušus skaitļus un datus no sarakstiem;<br>  
 2. Izmantojams dažādās jomās: noder simulācijās, testēšanā un datu modelēšanā.<br>  
+
 Ierobežojumi:<br>  
 1. Veiktspēja lielos apjomos: lielos datu ģenerēšanas procesos random var būt lēnāks nekā specializētas bibliotēkas.<br>  
 
-math bibliotēka:<br>  
+math bibliotēka:<br> 
+
 Ieguvumi:<br>  
 1. Nav npieciešama papildus bibliotēku ielāde: jau ir iestatīta un satur pamata matemātiskās funkcijas (kvadrātsaknes, trigonometriskās funkcijas, logaritmi u.c.);<br>  
 2. Augsta precizitāte un uzticamība: ir precīzāka un uzticamāka nekā paša veikti aprēķini;<br>  
 3. Vienkārša lietošana: palīdz veikt analītiskus aprēķinus bez liekas sarežģīšanas.<br>  
+
 Ierobežojumi:<br>  
 1. Tikai pamata matemātika: nespēj veikt grūtāku matemātiku (piemēram: vienādojumu pārveidi vai atvasinājumus).<br>  
 2. Fiksētas funkcijas: nevar pielāgot vai paplašināt iebūvētās funkcijas.<br>  
@@ -33,7 +35,8 @@ Atgriež doto skaitļu cos vērtību. (piemērā: 0;-1;10;360)<br>
 Atgriež nejaušu skaitli, starp ievadītajiem pamatojoties uz Gausa sadalījumu (izmanto varbūtību teorijās). (piemērā: 100;50 <br>  
 
 
-Random funkcijas:<br>  
+**Random funkcijas:**<br>  
+
 4.piemērs<br>  
 Atgriež objektu ar nejaušo skaitļu ģeneratora pašreizējo stāvokli.<br>  
 
