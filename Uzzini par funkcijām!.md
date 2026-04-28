@@ -1,4 +1,28 @@
-Math funkcijas:
+**Bibleotēku izvēle:**
+
+Izvēlējos tieši "random" un "math" bibliotēkas, jo tās ir visbiežāk izmantotās Python iebūvētās bibliotēkas, kad vajag ātri veikt skaitliskus vai simulācijas tipa uzdevumus, un esmu pati tās izmantojusi.
+
+**Ieguvumi un ierobežojumi:**
+
+
+random bibliotēka:
+Ieguvumi:
+1. Noderīgs rīks daudzās programmās: ļauj ģenerēt nejaušus skaitļus un datus no sarakstiem;
+2. Izmantojams dažādās jomās: noder simulācijās, testēšanā un datu modelēšanā.
+Ierobežojumi:
+1. Veiktspēja lielos apjomos: lielos datu ģenerēšanas procesos random var būt lēnāks nekā specializētas bibliotēkas.
+
+math bibliotēka:
+Ieguvumi:
+1. Nav npieciešama papildus bibliotēku ielāde: jau ir iestatīta un satur pamata matemātiskās funkcijas (kvadrātsaknes, trigonometriskās funkcijas, logaritmi u.c.);
+2. Augsta precizitāte un uzticamība: ir precīzāka un uzticamāka nekā paša veikti aprēķini;
+3. Vienkārša lietošana: palīdz veikt analītiskus aprēķinus bez liekas sarežģīšanas.
+Ierobežojumi:
+1. Tikai pamata matemātika: nespēj veikt grūtāku matemātiku (piemēram: vienādojumu pārveidi vai atvasinājumus).
+2. Fiksētas funkcijas: nevar pielāgot vai paplašināt iebūvētās funkcijas.
+
+
+**Math funkcijas:**
 1.piemērs
 Atgriež kvadrātsaknes no dotajiem skaitļiem. (piemērā: 1;4;256;49;15)
 
